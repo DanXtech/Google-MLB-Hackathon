@@ -7,7 +7,7 @@ import Signup from "../Pages/auth/Signup";
 import Login from "../Pages/auth/Login";
 import ChatSection from "../Pages/start-playing/ChatSection";
 import Features from "../Pages/Features";
-import Community from "../Pages/community";
+import Community from "../Pages/Community";
 const router = createBrowserRouter([
     {
         path: '/',
